@@ -1,0 +1,484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King David's sanctuary, or, A sermon preached before His Majesty the fourth of Febr. 1643 at Christ-Church in Oxford by Richard Harwood ...</title>
+            <author>Harwood, Richard, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43053</idno>
+            <idno type="STC">Wing H1106</idno>
+            <idno type="STC">ESTC R18253</idno>
+            <idno type="EEBO-CITATION">12212357</idno>
+            <idno type="OCLC">ocm 12212357</idno>
+            <idno type="VID">56332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 919:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King David's sanctuary, or, A sermon preached before His Majesty the fourth of Febr. 1643 at Christ-Church in Oxford by Richard Harwood ...</title>
+                  <author>Harwood, Richard, d. 1669.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Hall and W. Webb,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXXII, 25 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56332:1"/>
+            <p>
+               <hi>King</hi> David's <hi>Sanctuary,</hi> OR A SERMON Preached before His <hi>MAJESTY</hi> the fourth of Febr: 1643. at <hi>Chriſt-Church</hi> in <hi>OXFORD:</hi>
+            </p>
+            <p>
+               <hi>By</hi> RICHARD HARWOOD <hi>Maſter of Arts.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 108.10, 11, 12.</hi>
+               </bibl>
+               <p>Who will bring me into the ſtrong city? who will lead me into Euom?</p>
+               <p>Wilt not thou, O God, who haſt caſt us off? and wilt not thou, O God, go forth with our hoſts?</p>
+               <p>Give us help from troubles for vaine is the help of man.</p>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed for <hi>H. Hall</hi> and W. Webb. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:56332:2"/>
+            <pb facs="tcp:56332:2" rendition="simple:additions"/>
+            <head>TO THE HIGH AND MOST ILLVSTRIOVS PRINCE CHARLES, PRINCE OF WALES, DUKE OF CORNEWALL, and Earle of CHESTER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>Eſides the</hi> Honour <hi>your</hi> Highneſſe <hi>hath done the</hi> Truth, <hi>by caſting ſo early an eye upon Her, though in the plaineſt dreſſe:</hi> You <hi>have given a</hi> Happy Omen <hi>to this</hi> Nation, <hi>that the</hi> True Religion, <hi>which is now trampled under foot by</hi> Hereſy, <hi>and</hi> Schiſme, <hi>hath yet</hi> Meſſem in Herbâ, <hi>and is</hi> Revireſcent <hi>in</hi> your <hi>ten<g ref="char:EOLhyphen"/>der yeares. As</hi> Theodoſius <hi>the</hi> Emperour, <hi>after the</hi> Apoſtolicall Faith <hi>had beene long buried by the</hi> Ari<g ref="char:EOLhyphen"/>ans,<note place="margin">Soc. Eccl. hiſt. l. <hi>5</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>6.</hi>
+               </note> 
+               <hi>erected a</hi> Church <hi>in</hi> Conſtantinople, <hi>and chri<g ref="char:EOLhyphen"/>ſtened it</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the</hi> Reſurrection: <hi>So by</hi> your <hi>timely</hi> Patronage <hi>of the</hi> Truth, You <hi>have raiſed our</hi> Hopes
+<pb facs="tcp:56332:3"/>
+               <hi>into a</hi> Confidence, <hi>that we ſhall yet ſee a</hi> Reſurrecti<g ref="char:EOLhyphen"/>on: <hi>when the</hi> Kings Crowne <hi>ſhall riſe the</hi> Brighter <hi>out of theſe</hi> Flames; <hi>and the</hi> Dry bones <hi>of</hi> Learning <hi>and</hi> Religion, <hi>live, and ſtand, in</hi> Your ſight. For <hi>by com<g ref="char:EOLhyphen"/>manding this Sermon to the</hi> preſſe, (<hi>Though I muſt ſay to</hi> Your Highneſſe, <hi>as</hi> Tully <hi>to</hi> Brutus, Quamvis Pla<g ref="char:EOLhyphen"/>cebam, nihil feci, quod placeret: <hi>It being like</hi> Mar<g ref="char:EOLhyphen"/>tial's Fly, <hi>of no</hi> Worth <hi>in it ſelfe, but onely for the</hi> Am<g ref="char:EOLhyphen"/>ber <hi>and</hi> Grace You <hi>have caſt about it:)</hi> You <hi>have al<g ref="char:EOLhyphen"/>ready inſome part,</hi>
+               <note place="margin">They have made lyes their re<g ref="char:EOLhyphen"/>fuge, and under falſhood hid them<g ref="char:EOLhyphen"/>ſelves. Iſai. <hi>28.15.</hi>
+               </note> 
+               <hi>not onely vindicated the</hi> Kings Ho<g ref="char:EOLhyphen"/>nour, <hi>and</hi> Your <hi>owne</hi> Spotleſſe Innocency <hi>from the</hi> Blaſphemies <hi>of thoſe, who have made</hi> Lyes a refuge: <hi>(For he that pleaſeth to read, may here behold the</hi> liberty <hi>and</hi> boldneſſe, <hi>we are still allowed against the</hi> Roma<g ref="char:EOLhyphen"/>niſts, <hi>Even in the</hi> preſence <hi>of our</hi> King, His Poſterity, <hi>and the whole</hi> Counſell,) <hi>But alſo</hi> confirmed <hi>the</hi> Faith <hi>of this</hi> Kingdome, <hi>that according to the</hi> Vnparallel'd Example <hi>of</hi> Your Royall Father, <hi>you will be a</hi> Con<g ref="char:EOLhyphen"/>ſtant Defender <hi>of the</hi> Proteſtant Faith, <hi>you have re<g ref="char:EOLhyphen"/>ceived from a</hi> Religious Education, <hi>To the</hi> glory <hi>of</hi> God, <hi>the future</hi> Tranquillity <hi>of theſe</hi> Kingdomes, <hi>and your owne</hi> Immortall <hi>Honour, which is the prayer of</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your</hi> HIGHNESSE <hi>Truly devoted, but moſt humble Servant,</hi> RICHARD HARWOOD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:56332:3" rendition="simple:additions"/>
+            <head>King DAVIDS Sanctuary.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 73.25.</hi>
+                  </bibl>
+                  <p>VVhom have I in Heaven, but thee, O Lord? and there is none upon earth, that I deſire beſides thee.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Mong the bookes of Canonicall Scrip<g ref="char:EOLhyphen"/>ture, there is but one ſtiled the <hi>booke of the Preacher:</hi> not as if our doctrine ſhould all be confin'd to Eccleſiaſtes,<note place="margin">Proloq. in Ec<g ref="char:EOLhyphen"/>cleſiaſt.</note> but as <hi>Gregory Nyſſen,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>&amp;c.</hi> becauſe it is a choice Tract of Eccleſiaſticall policy, and no Text more fit for the Preachers ſtudy, or the Peoples practice, then the <hi>vanity</hi> of the <hi>creature,</hi> &amp; the <hi>immortali<g ref="char:EOLhyphen"/>ty of the creatour.</hi> For ſince the ſoule of man is reſtleſſe, &amp; unquiet out of its center, and the whole world is but a wide circumference. ſince like the needle in the com<g ref="char:EOLhyphen"/>paſſe, ſhe hath a naturall trembling to the fruition of happineſſe, and this temporall, as <hi>Baſil</hi> truly,<note place="margin">
+                  <hi>Baſil.</hi> in Pſal. 61.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:56332:4"/>ſteales along by it, as an impetuous ſtreame rowles by the bankes, (and who can aime ſteedily at a moving marke?) The Prophet here is a true Eceleſiaſtes, if he draw you a right line to the immoveable center, and di<g ref="char:EOLhyphen"/>rect the quaking ſoule to its true pole, <hi>God himſelfe.</hi> For having coaſted the whole world in his thoughts for a reſting place, with <hi>Noahs</hi> Dove, he returnes again into the Arke with this Olive branch in his mouth, <hi>Non eſt Mortale, quod opto.</hi> He findes no ſanctuary, but in heaven, no ſafe repoſe, but in the Almighty: <hi>Whom have I in Heaven, but thee, O Lord? and there is none upon Earth, that I deſire beſides thee.</hi>
+            </p>
+            <p>In this verſe King <hi>David</hi> ſeemes to be placed, as <hi>Au<g ref="char:EOLhyphen"/>guſtus</hi> once fancyed himſelfe, <hi>inter ſuſpiria &amp; lachrimas,</hi> betweene <hi>ſighes,</hi> and <hi>teares:</hi> yet he looks cheerefully up to Heaven, fetching comfort thence in the full aſ<g ref="char:EOLhyphen"/>ſurance of the divine favour. And becauſe 'tis muſicall, I ſhall once more crave leave to follow the allegory, pleaſe you to obſerve</p>
+            <p>The <hi>Diſpoſition</hi> of the parts And <hi>Oppoſition</hi> of the notes, in both.</p>
+            <p>Firſt, <hi>The Diſpoſition of the parts,</hi> and thoſe are <hi>Acu<g ref="char:EOLhyphen"/>tum,</hi> and <hi>grave,</hi> High, and Low.</p>
+            <p>
+               <hi>High,</hi> in a paſſionate <hi>expoſtulation.</hi> Whom have I in Heaven, but thee, O Lord?</p>
+            <p>
+               <hi>Low,</hi> in a deliberate <hi>reſolution.</hi> There is none upon Earth, that I deſire beſides thee.</p>
+            <p n="1">I. In the expoſtulation you have 3 notes.</p>
+            <list>
+               <item>1. <hi>Quem in coelis.</hi> Whom in Heaven, whileſt others lay up their treaſures on earth, in
+<pb n="3" facs="tcp:56332:4"/>heaven my <hi>exchecquer,</hi> in <hi>heaven</hi> my treaſu<g ref="char:EOLhyphen"/>ry.</item>
+               <item>2. <hi>Quem praeter te?</hi> Whom have I there, but thee, O Lord? God alone is a Chriſtians portion: he is truely poſſeſſed of nothing, but the Deity.</item>
+               <item>3. <hi>Quis mihi,</hi> according to the hebrew,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> who is for me? who pleades my cauſe in heaven? not any Saint, or Angell, but thou O Lord, thou art my redeemer, thou my advocate: which makes the queſtion paſt all queſtion, <hi>I have none in heaven, but thee, O Lord.</hi>
+               </item>
+            </list>
+            <p n="2">II. The reſolution. <hi>There is none that I deſire on Earth beſides thee. Et tecum non.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> The negation is <hi>Perſonall,</hi> no man for his favour, <hi>Reall,</hi> no crea<g ref="char:EOLhyphen"/>ture for its excellency, that I deſire with thee: the treaſures of the earth are but guilded pover<g ref="char:EOLhyphen"/>ty: the favour of a Prince, but a gratious ſnare without thee: give me thy <hi>bleſſed ſelfe,</hi> and what can this earth adde to my happineſſe? that I may in the next live for ever with thee, <hi>Lord,</hi> let me never live in the preſent world without thee; For, <hi>non eſt in terris,</hi> there is nothing on earth, <hi>that I deſire, but thee.</hi>
+            </p>
+            <p>Secondly. <hi>The Oppoſition or diſtinction</hi> of the notes in both parts. For as <hi>Syneſius</hi> in his panegyricall ora<g ref="char:EOLhyphen"/>tion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in their diſcord is a moſt ſweet harmony. The oppoſition appeares
+<list>
+                  <item>1. In <hi>the order of the places.</hi> In King <hi>Davids</hi> thoughts, Heaven takes praecedency of the earth; <hi>Whom have I in Heaven?</hi> that's his firſt
+<pb n="4" facs="tcp:56332:5"/>care: then, <hi>deſire on earth,</hi> followes after. 'Tis honour enough, for this vile earth to <hi>wait</hi> up<g ref="char:EOLhyphen"/>on Heaven.</item>
+                  <item>2. <hi>In the ſenſe of the Verbes, Habeo,</hi> and <hi>Deſideravi; Habeo in Coelis, Have in heaven, Deſideravi in terris; only deſire on earth.</hi> Here we tyre our ſelves with a reſtles coveteouſneſſe, wandring through the whole creation, but finding no ſatisfaction: yet what we crave on earth, we are ſure to have in heaven: there our deſires ſhall be ſatisfied with fruition, and though ſome veſſells may conteine more then other, yet every one ſhall be full, no vacuity, no want in any.</item>
+                  <item>3. <hi>In the diverſity of the praepoſitions.</hi> The hebrew <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> and <hi>Calvins Praeter.</hi> Nothing <hi>with,</hi> no<g ref="char:EOLhyphen"/>thing <hi>beſides</hi> thee, that I deſire: this is the true <hi>Ela,</hi> the higheſt ſtreine in the Song.</item>
+               </list> 
+               <hi>Canticordium,</hi> a ſong for no other inſtrument, but the heart: that's the Pſaltery King <hi>David</hi> ſings to: and as <hi>Baſill</hi> obſerves of the materiall,<note place="margin">
+                  <hi>Baſill</hi> in Pſal. 1.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that they uſe to play upon it above, not below, as in the Harpe and Violl: ſo in this ſpirituall Pſaltery, <hi>the Heart,</hi> we ſhall ſtrike the upper ſtrings, the underſtand<g ref="char:EOLhyphen"/>ing, will, and affections, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that ſo our ſoules may aſcend, and in every note of the ſong, ſeeme to riſe a degree nearer heaven. That's the firſt, which preſents it ſelfe to your attention, <hi>Quem in caelis, Whom have I in heaven;</hi> whilſt others lay up their treaſures on earth, In heaven my exchequer, in heaven my treaſury.</p>
+            <pb n="5" facs="tcp:56332:5"/>
+            <p> Chriſtianity is but a kind of religious <hi>Aſtronomy,</hi>
+               <note place="margin">
+                  <hi>1.</hi> Quem in Cales.</note> the contemplation and ſtudy of heaven. No <hi>Geometry,</hi> or meaſuring the earth in a <hi>Chriſtians Mathematicks,</hi> unleſſe it be, that his ſoule may the more eaſily take footing into heaven. When the <hi>Rabbins</hi> take <hi>Shamajim,</hi> the word for <hi>heaven</hi> in peices, they find it compoſed of <hi>eſch</hi> and <hi>maijm, fire</hi> and <hi>water,</hi> not a <hi>jot</hi> of earth in it: The very <hi>creation</hi> of the <hi>Heavens</hi> inſtructing our thoughts ſhould be advanced above the earth:<note place="margin">Menaſſ. Ben Iſr. <hi>9.30. in gen.</hi>
+               </note> 
+               <hi>that</hi> hath the <hi>loweſt place</hi> in nature, made, but to be <hi>trampled</hi> on.</p>
+            <p>Some <hi>Principles</hi> there be, that lay a foundation to e<g ref="char:EOLhyphen"/>very <hi>Science: Let your converſation be in heaven,</hi> is the <hi>cheifeſt</hi> in Chriſtianity.<note place="margin">Philip. 3. v.20.</note> As the <hi>Stars</hi> move in their ſe<g ref="char:EOLhyphen"/>verall orbes, and the <hi>planets</hi> in their <hi>cycles,</hi> and <hi>epicycles</hi> obſerve a kind of <hi>orderly wandring:</hi> ſo a <hi>Chriſtians ſphaere</hi> is above, <hi>in Heaven,</hi> there he performes all his <hi>regular mo<g ref="char:EOLhyphen"/>tions:</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the originall word is, <hi>let your civill com<g ref="char:EOLhyphen"/>merce be in heaven.</hi> For are we not all <hi>Merchant adventu<g ref="char:EOLhyphen"/>rers</hi> for happineſſe? Doth not every man deſire to deale in that <hi>rich commodity?</hi> and where ſhall we find it, but in the new <hi>Hieruſalem?</hi> The <hi>Artiſt</hi> hath made it a very <hi>long voyage,</hi>
+               <note place="margin">I. h. de ſae. Boſ. <hi>de Sphaera.</hi>
+               </note> who curiouſly calculating the <hi>diſtance</hi> from <hi>earth to heaven,</hi> findes it to be <hi>five hundred yeares journey,</hi> but the Chriſtian hath a <hi>nearer way</hi> to it: he can <hi>ſtep</hi> to heaven in <hi>a pious glaunce;</hi> finiſh this <hi>five hundred yeares journey</hi> in a meditation of but an <hi>houre long:</hi> venture <hi>almes</hi> and <hi>prayers,</hi> and have a returne in a day: nay whilſt we are but furniſhing the <hi>Ship</hi> for Heaven, our faith, and affections but on the Shoare, not yet launch't into the deepe, God many times prevents our deſires and ſends us in a rich prize of bleſſings. <hi>No ſuch gaine, as by trading to heaven.</hi>
+            </p>
+            <pb n="6" facs="tcp:56332:6"/>
+            <p> But not to move the note off its rule; when we ſay our <hi>Pater noſter,</hi> (though it be almoſt out of uſe now a<g ref="char:EOLhyphen"/>dayes, our <hi>extemporary</hi> mouthes prizing more their <hi>whining</hi> non-ſenſe, yet when we ſay it) we tune this note to our ſelves: <hi>Our father which art in heaven,</hi> and why not as well, <hi>which art on earth?</hi> but that he would confine our thoughts to that place, where all happi<g ref="char:EOLhyphen"/>neſſe is confined. <hi>Earth?</hi> Why, it is the <hi>mother of cor<g ref="char:EOLhyphen"/>ruption;</hi> fit for nothing, but to <hi>make graves of:</hi> if you dote upon it, yea quite change our <hi>Liturgy,</hi> and com<g ref="char:EOLhyphen"/>mit your <hi>ſoules</hi> to the <hi>ground,</hi> earth to earth, aſhes to aſhes, duſt to duſt, <hi>but</hi> with <hi>no ſure and certaine hope</hi> of a reſurrection to eternall life. In the <hi>6</hi> Chapter of <hi>Iſaiah,</hi> the <hi>Cherubims</hi> cover their feet with a paire of wings, <hi>Ne terram contingerent,</hi>
+               <note place="margin">Calvin. in <hi>6.</hi> cap. Iſai.</note> leſt they ſhould once touch the earth, and contract any pollution from it. <hi>Quo ad<g ref="char:EOLhyphen"/>monentur,</hi> ſaies <hi>Calvin,</hi> to give us notice, that we ſhall never have any commerce with Angels, till we forſake our acquaintance with the world. 'Tis S. <hi>Ambroſe</hi> upon thoſe words of <hi>Mathew,</hi>
+               <note place="margin">Matt. 7.16.</note> 
+               <hi>do men gather grapes of thornes?</hi> that the <hi>ſoule,</hi> and the <hi>grape</hi> do ſo correſpond in their nature, that as the <hi>bunches</hi> next the earth <hi>corrupt,</hi> whilſt thoſe above <hi>ripen:</hi> ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as <hi>Nazianzens</hi> phraſe is, the ſoule that creepes upon the ground doth rot, and putrifie, when that which ſprings upwards is immortall. Indeed our primitive ſoyle is the earth: the ſoule was firſt planted in a <hi>body of clay,</hi> as a <hi>diamond</hi> ſome times may be ſet in lead: yet as <hi>Pliny</hi> ſaid of <hi>Roſes,</hi> that they looſe not their virtue by <hi>tranſplantation,</hi>
+               <note place="margin">Lib. <hi>2.</hi> nat. hiſt. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>.</hi>
+               </note> but in<g ref="char:EOLhyphen"/>creaſe it. <hi>Oderatiores,</hi> they are more odoriferous, and pleaſant, ſo did we tranſplant our ſoules into heaven,
+<pb n="7" facs="tcp:56332:6"/>they would be more ſweet and fragrant, whilſt now they ſtinke, and ſmell of the earth.</p>
+            <p>But let me not here <hi>play</hi> the <hi>Jeſuite</hi> with you, per<g ref="char:EOLhyphen"/>ſwading you to <hi>abjure</hi> worldly happineſſe, that our <hi>owne</hi> tribe might ingroſſe it, (though ſome deale worſe with us, whowould <hi>reforme</hi> the Church into a <hi>religious beggar,</hi> condemning us all to a <hi>laborious penury,</hi> onely to bring her revenues to their owne coffers) we equally deteſt a <hi>voluntary mendicant,</hi> and a <hi>golden Idolater.</hi> Wilfull po<g ref="char:EOLhyphen"/>verty is a Stoicall dulneſſe, and the adoration of mam<g ref="char:EOLhyphen"/>mon a moſt ſtupid Idolatry. <hi>Mundu<g ref="char:cmbAbbrStroke">̄</g> mundè,</hi> uſe we may, but not adore the creature, command the world, as a <hi>ſervant,</hi> not ſerve it as a <hi>Commander.</hi> We may looke upon this faire picture as the <hi>worke of God,</hi> not worſhip it for a <hi>God;</hi> like the fooliſh <hi>Egyptians</hi> that were ſo ena<g ref="char:EOLhyphen"/>moured with the picture of <hi>Bucephalus,</hi> that they e<g ref="char:EOLhyphen"/>ſteemed it a Deity.</p>
+            <p>Yet how many <hi>Shrines</hi> and <hi>Altars</hi> are erected in mens hearts to this great <hi>Idoll, the world?</hi> Moſt men ſcarce acknowledge any other <hi>God,</hi> but this <hi>golden Calfe,</hi> to which they performe their ſervile devotions.<note place="margin">Herodot, lib. <hi>5.</hi> Terpſie. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> As <hi>Hero<g ref="char:EOLhyphen"/>dotus</hi> ſaid of <hi>Onefilus</hi> his head, that it was <hi>empty of braine,</hi> filled only with <hi>hony combes,</hi> ſo our hearts are void of the thoughts of Heaven, repleniſhed only with the va<g ref="char:EOLhyphen"/>nities of the world. Should I miſpend time, to repre<g ref="char:EOLhyphen"/>ſent unto you the actions of men, I ſhould find them ſo oppoſite to heaven,<note place="margin">Plutarch.</note> as if they had conſulted with <hi>Brutus</hi> his Oracle, which required him <hi>Oſculari terram,</hi> even to kiſſe and embrace the earth.</p>
+            <p>But <hi>Heaven</hi> is a fairer <hi>object</hi> for our meditations. Did we but caſt up an eye to our future hopes, how mean<g ref="char:EOLhyphen"/>ly
+<pb n="8" facs="tcp:56332:7"/>ſhould we eſteeme our preſent fortunes. All our happineſſe here ſtands on a rowling ſtone, but if we fixe it in Heaven 'tis everlaſting, and permanent.<note place="margin">Plutarch.</note> 
+               <hi>Em<g ref="char:EOLhyphen"/>pedocles</hi> being asked <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r viveret,</hi> why he deſired to live in this miſerable world? replyed, <hi>ut coelum aſpicerem,</hi> only to contemplate Heaven.</p>
+            <p>When I behold but the <hi>Pavement</hi> of Heaven ſtuck with Stars, as ſo many ſparkeling Diamonds, how de<g ref="char:EOLhyphen"/>ſpicableis the ſtatelyeſt palace of the greateſt <hi>Monarch:</hi> &amp; if the very pavement be ſo glorious, what ſhall we thinke of thoſe better parts yet unſeene?<note place="margin">Bernard.</note> 
+               <hi>Magnum &amp; mirabile ſub tanta majeſtace.</hi> When I conſider the eter<g ref="char:EOLhyphen"/>nall joyes of that place, how heartleſſe, and dying are the beſt of earthly pleaſures! Tis a very <hi>Turkiſh</hi> heaven, that is compoſed of nothing, but your temporall de<g ref="char:EOLhyphen"/>lights:<note place="margin">Aug.</note> a <hi>Chriſtians</hi> is above, made of pure, everlaſting bliſſe. But Saint <hi>Hierom's</hi> Ghoſt ſtrikes me dumbe in this point, who departing in <hi>Bethlehem,</hi> haſted to <hi>Hippo,</hi> where <hi>Auguſtine</hi> was Biſhop, and then ſtudying the joyes of heaven, and interrupted his meditations with this queſtion, <hi>Quid quaeris brevi immittere vaſculo totum mare?</hi> Why doeſt thou endeavour to contract the Oce<g ref="char:EOLhyphen"/>an in a thimble? or to draw eternity within the narrow limits of time? The <hi>fading honour</hi> of this world! 'Tis but a popular breath, the butt of envy, or what is worſe, too often <hi>the ſtage of treaſon, and revenge:</hi> in heaven, 'tis in triumph, above the reach of malice, or oblivion. The <hi>Dying life</hi> we live here! 'tis a lampe that muſt out, a ſhadow that will vaniſh, a graſſe that ſhall wither: in heaven, 'tis lengthened into eternity, beyond the threats of mortality or corruption. The <hi>ſinfull company</hi> we enjoy in this life! 'Tis a mixture of virtue and vice,
+<pb n="9" facs="tcp:56332:7"/>gold, and droſſe, wheat and tares, in heaven, the ſociety of Saints and Angells: yea the beatificall viſion of God himſelfe. <hi>O King of glory,</hi> 'tis the revelation of thy roy<g ref="char:EOLhyphen"/>all preſence, that makes <hi>heaven to be it ſelfe!</hi> as we uſe to ſay, <hi>Ubi imperator, ibi Roma: Where the King is, there is London:</hi> his preſence creates a <hi>metropolis</hi> of any place: which leades your attentions from <hi>Quem in coelis?</hi> to <hi>Quem praeter te?</hi> The ſecond note in the ſong. <hi>Whom have I in heaven, but thee O Lord? thou my portion, thou my riches.</hi>
+            </p>
+            <p>
+               <hi>Divitiae parentes ſunt abſurditatis,</hi> ſayes a Father,<note place="margin">
+                  <hi>2</hi> Quem pra<g ref="char:EOLhyphen"/>ter te.</note> worldly happineſſe is the parent of abſurdity: for what more incongruous, then to forſake the glory of the creatour, for the vanity of the creature? This were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Syneſius</hi> opinion,<note place="margin">
+                  <hi>In epiſt. ad Py<g ref="char:EOLhyphen"/>lens.</hi> Plin. l. 12. nat. hiſt.</note> to exchange gold for braſſe, or with thoſe people in <hi>Pliny, tributum pro umbra,</hi> to pay tribute for a ſhadow. <hi>Alas,</hi> we creatures need not one another, ſo long long as we are poſſeſſed of thee, O Lord.<note place="margin">Ambroſ.</note> 
+               <hi>Cui portio Deus eſt, totius poſſeſſor eſt na<g ref="char:EOLhyphen"/>turae;</hi> He is Lord of the whole univerſe, that is but poſſeſſed of God himſelfe. And how unſatiable art thou, O <hi>man,</hi> whom <hi>God</hi> cannot ſatisfye? What doth thy <hi>religious avarice</hi> determine thy deſires to? <hi>name</hi> it what thou wilt: <hi>thinke</hi> what thou canſt; nay, thinke once a <hi>miracle,</hi> what thou canſt not thinke; yet this ſhalt thou finde in the al-ſufficient God.<note place="margin">Ariſt. in Mor<g ref="char:EOLhyphen"/>ral.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaies <hi>Ariſtotle</hi> by the light of na<g ref="char:EOLhyphen"/>ture, the Deity is in all things, and all things in it. 'Twas Saint <hi>Cyprians</hi> wonder, <hi>Deum ſolis nobis,</hi> that God e<g ref="char:EOLhyphen"/>ſteemes us enough for him, <hi>nobis non ſufficere Deum;</hi> and yet we thinke not God a ſufficient boone for us. <hi>Quid a<g ref="char:EOLhyphen"/>varius co, cui Deus non ſufficit, cui inſunt omnia?</hi> What
+<pb n="10" facs="tcp:56332:8"/>ſo coveteous as he, that is not ſatisfyed with God, who is a <hi>monopoly</hi> of all things? 'Tis the <hi>ambition</hi> of every man's <hi>coverteouſneſſe,</hi> to reach after the greateſt, and moſt laſting fortune he can; but can your deſires compaſſe a larger inheritance then <hi>Immenſity?</hi> can your Lawyer draw you a firmer conveyance, or give you a ſurer tenure then <hi>Immutability?</hi> can you take a leaſe for a longer tearme of yeares then <hi>Aeternity?</hi> Let Saint <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> ſpeake, <hi>Quantum libet ſis avarus, ſufficit tibi Deus,</hi> be as coveteous as thou can'ſt, yet God is enough for thee. He is an <hi>immenſe, immutable, aeternall inheritance. Avaritia terram quaerit, adde &amp; coelum,</hi> Avarice carries thy deſires uppon the earth, but to make thy fortune compleat, adde heaven to thy deſire. Nay, wouldſt thou have this world, and the next too? <hi>Plus, eſt qui fecit coelum, et terram;</hi> He that made heaven and earth is more then both. Who ſo <hi>rich</hi> as he, whoſe maker is his <hi>Wealth?</hi> Who ſo fortunate, as he that enjoyes him, who enjoyes all things?<note place="margin">Aug. <hi>manuale</hi> c. 34.</note> 
+               <hi>Qui hoc bono fruitur, quid illi erit, im ò quid non erit?</hi> he that poſſeſſeth this good, what will it be, nay, what will it not be unto him?</p>
+            <p>I have here diſcovered a <hi>Mine:</hi> opened a <hi>Treaſure</hi> to you: <hi>(and certainely in theſe times of publique neceſſity, it cannot be an unwelcome meſſage:</hi>
+               <note place="margin">Ambroſ. Ser. 8. in Pſal. 118.</note>) <hi>In te Deo eſt ampla poſſeſſio.</hi> In God alone is the moſt ample poſſeſſion: as the greateſt abundance without him is extreame pover<g ref="char:EOLhyphen"/>ty, ſo the moſt extreame poverty with him is the great<g ref="char:EOLhyphen"/>eſt abundance. <hi>Omnis mihi copia, quae Deus meus non eſt, egeſtas eſt,</hi> ſayes <hi>Bernard:</hi> all my wealth, which is not my God, is downe right penury, <hi>Dominus pars haereditatis,</hi> the Lord is the <hi>part of my inheritance. David</hi> eſteemes
+<pb n="11" facs="tcp:56332:8"/>not that an inheritance, whereof God is not a part. Pſ. 16. v.5. <hi>Menath,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> the <hi>Principall part, Heaven</hi> it ſelfe being but a <hi>poore fortune</hi> without him. <hi>The Romans</hi> were wont to ſay, 'twas good looking in a Map, <hi>ubi nihil alienum videmus,</hi> if all they beheld in it were their <hi>owne:</hi> I have here drawne you to a <hi>Map,</hi> wherein, were there as many <hi>Worlds as Epicurus</hi> dream't of, <hi>All's yours,</hi> if you make <hi>but God</hi> your owne. O let us advance our thoughts from the <hi>creature</hi> to the <hi>creatour,</hi> the <hi>mine</hi> is in heaven,<note place="margin">1 Sam. 1.1.</note> the <hi>treaſure</hi> above: every <hi>Chriſtian</hi> ſhould be an <hi>Elcanah,</hi> that is, by interpretation, a <hi>poſſeſſour</hi> of God: elſe he is no <hi>Chriſtian,</hi> but an <hi>Atheiſt.</hi>
+            </p>
+            <p>
+               <hi>My coveteous heart!</hi> why doeſt thou vex thy ſelfe with reſtleſſe thoughts for this <hi>world?</hi> let them looke af<g ref="char:EOLhyphen"/>ter earth, that have no <hi>right</hi> to heaven. God is a <hi>Chri<g ref="char:EOLhyphen"/>ſtians patrimony,</hi> and what <hi>penury</hi> of gold, when thou haſt the <hi>mine?</hi> What want of <hi>water</hi> at the <hi>ſpring head?</hi> can he complaine the <hi>lacke of any thing,</hi> that is poſſeſſed of the <hi>Lord of all things?</hi> a <hi>bottomleſſe</hi> coveteouſneſſe, which the Author of all things cannot content!.</p>
+            <p>
+               <hi>My ambitious ſpirit!</hi> why doeſt thou breath after greatneſſe and honour? If <hi>God</hi> be not in thy <hi>preferments,</hi> thou art advanced, but upon a <hi>pinnacle,</hi> which gives an advantage to thy more ruinous downefall. All <hi>true ho<g ref="char:EOLhyphen"/>nour</hi> is derived from heaven, there are<note n="a" place="margin">Joh. 14.2.</note> 
+               <hi>many manſions;</hi> places of honour. A<note n="b" place="margin">1. Pet. 5.4.</note> 
+               <hi>Crowne of glory,</hi> the ornament of<note n="c" place="margin">Revela. 7.11.</note> 
+               <hi>Saints and Angels,</hi> attendants of honour.<note n="d" place="margin">
+                  <hi>Mat. 24.35. Rom. 2.</hi> Bene ſperemus de eo, in quo ali<g ref="char:EOLhyphen"/>quid Des cer<g ref="char:EOLhyphen"/>nimus. <hi>Calvin</hi>
+               </note> A <hi>King<g ref="char:EOLhyphen"/>dome,</hi> the ſupport of honour. A <hi>Luciferian</hi> ambition, that is not ſatisfyed with the <hi>glory, honour and immorta<g ref="char:EOLhyphen"/>lity above,</hi> But once more: <hi>My deſpairing anxious ſoule,</hi> why art thou caſt downe, why diſquieted within me?
+<pb n="12" facs="tcp:56332:9"/>Let not thy hope ſinke, ſo long as thou ſeeſt the leaſt <hi>ray of the Deity.</hi> Though thou beholdeſt our <hi>King</hi> diſho<g ref="char:EOLhyphen"/>noured, our religion martyr'd, our fortunes ruined, and <hi>whatſoever is deare unto us in this world</hi> threatned with deſtruction: <hi>Nunquid tibi Deum?</hi> ſayes <hi>Anguſtine,</hi> yet they cannot rob us of our God, keepe we our intereſt in him, &amp; we have yet a Treaſure inexhauſtible, an Ar<g ref="char:EOLhyphen"/>my invincible, a Caſtle impregnable: a <hi>Treaſure,</hi> an <hi>Army,</hi> a <hi>Caſtle,</hi> All in our God. what would you have? if <hi>Peace</hi> againe, he is <hi>Deus pacis.</hi> If more <hi>power,</hi> he is <hi>Dominus exercituum.</hi>
+               <note place="margin">Pſal. 144. v.10.</note> If <hi>Victory, It is he that giveth victo<g ref="char:EOLhyphen"/>ry to Kings, and delivers</hi> David <hi>his ſervant from the perill of the ſword, Peace, Power, Victory,</hi> All from our God. Aske no more, <hi>who will ſhew us any good?</hi>
+               <note place="margin">Pſal. 4.6.</note> but <hi>Lord lift thou up the light of thy countenance upon us.</hi> For he alone can be all theſe to us, who now begs all theſe for us: our <hi>partrimony,</hi> on earth, our <hi>patron</hi> in heaven; which brings mee from <hi>Quem praeter te?</hi> to <hi>Quis mihi?</hi> who pleads for mee? not any Saint or Angell; but thou <hi>O Lord:</hi> thou art my <hi>redeemer;</hi> thou my <hi>advocate.</hi>
+            </p>
+            <p>
+               <hi>Whom but thee.</hi>
+               <note place="margin">3. Quis mihi.</note> why? Is the new <hi>Hieruſalem</hi> become deſolate? what uſe of many <hi>manſions,</hi> if no <hi>inhabitants</hi> there? Or if <hi>inhabited,</hi> why but thee, <hi>O Lord?</hi> Can God be <hi>ſolitary</hi> among ſo many regiments of <hi>Cherubims</hi> and <hi>Seraphims?</hi> or hath <hi>David</hi> never a friend in that <hi>Army of Martyrs,</hi> to uſher his prayers to the Allmighties care? were the <hi>Court</hi> of <hi>heaven</hi> like a <hi>Kings</hi> on earth,<note place="margin">Exam. decret. concil. Tridenti<g ref="char:EOLhyphen"/>ni part. <hi>3.</hi> loc. de Invoc. Sanct. <hi>13.</hi>
+               </note> many might conclude, as the man in <hi>Chemnitius</hi> hearing a <hi>Biſhop</hi> on this ſubject, <hi>Tunc ſimplicitér actum &amp; conclamatum nobiſ<g ref="char:EOLhyphen"/>cum:</hi> or at leaſt deſpaire of a gratious anſwer, that have no <hi>friende at Court.</hi> But the <hi>Almighties care</hi> is not confi<g ref="char:EOLhyphen"/>ned
+<pb n="13" facs="tcp:56332:9"/>to <hi>a privy chamber:</hi> he that would ſpeake with God needs not bribe any <hi>Saint or Angell</hi> to be his <hi>Sollicitour, a creature ſo baſe, and ſervile on earth, that the heavens ſcorne the uſe of him:</hi> the <hi>finitude</hi> of the Kings preſence requires an <hi>officer of ſtate,</hi> to ſtate our requeſts to His Majeſty, but the <hi>ubiquity</hi> of God needs not the flattery of a creatures mediation. His eare is omnipreſent, as his eſſence. <hi>Itur ad reges per tribunos,</hi> a tribune, or Lord muſt open the doore for a petition to the King:<note place="margin">Ambroſ. in Rom. <hi>6.1.</hi>
+               </note> 
+               <hi>ad Deum ſuffragatore non opus eſt, ſed mente devotâ,</hi> To ſpeake with God, we need no other <hi>Key,</hi> but a <hi>devout heart:</hi> this <hi>unlocks</hi> the heavens, and preſents the ſuite to the <hi>Kings</hi> owne hands.</p>
+            <p>Indeed <hi>mediation</hi> ſuppoſes a <hi>quarrell.</hi> (for 'tis ſcarce ſenſe to ſay, <hi>I will reconcile friends:</hi>) had God and man never fallen our, there had beene no uſe of a Mediator, but now we all bend our knees to an <hi>offended juſtice,</hi> and might deſpaire of mercy for ever, unleſſe as <hi>Themiſto<g ref="char:EOLhyphen"/>cles</hi> once to the <hi>King of Moloſſy,</hi> we preſent our requeſts under the protection of the <hi>Kings</hi> onely ſonne:<note place="margin">Plut. Mor.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the moſt prevalent kind of ſupplication. If <hi>Manoah</hi> offer ſacrifice,<note place="margin">Exod. 25. v.16. Gen. 27. v.27: Judg. 13.20.</note> this <hi>Angell</hi> muſt open heaven for it. If <hi>Moſes</hi> aſcend to God, he muſt be covered with this <hi>cloud.</hi> If <hi>Jacob</hi> would obtaine the bleſſing, He muſt enter in the garments of this <hi>elder brother.</hi>
+               <note place="margin">Eph. 3. v.12:</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by him alone our perſons have admiſſion into the <hi>royall</hi> preſence of the Allmighty.</p>
+            <p>But, <hi>Quis praeter te?</hi> is no antheme for the <hi>Popes</hi> quire, who allowes as many <hi>mediatours,</hi> as he hath <hi>Canonized Saints.</hi> Though he fill his Calendar from Tyburne, <hi>Maſters of requeſts</hi> he will have for all neceſſities. Saint
+<pb n="14" facs="tcp:56332:10"/>
+               <hi>Geogre</hi> for the field, and (to open the roule no farther) <hi>Saint Gregory</hi> for the Schooles. Yea as great a turne of State, or if you will. <hi>reformation</hi> you have in heaven, as we now feare on earth: <hi>Chriſt</hi> is put out of his office, and <hi>Saint Francis</hi> ſtept into the mediatour-ſhip; the Church of <hi>Rome</hi> being therein as bold with the <hi>King of heaven,</hi>
+               <note place="margin">Anſelm l'de ex<g ref="char:EOLhyphen"/>cellentia Virg. Bonavint, in Spec. c. <hi>8.</hi> Men<g ref="char:EOLhyphen"/>doz. in <hi>1.</hi> lib. Reg. c. <hi>4.</hi> n. <hi>11.</hi> An. <hi>12.</hi> Sect. <hi>1.</hi>
+               </note> as ſome are with our <hi>King on earth: not onely to counterfeit the Great Seale in the Sacraments, but to deny him the choice of his owne officers.</hi> Nay, they have given away halfe the Kingdome, that of Mercy to the <hi>Virgin Mary (ſo free are they of the divine prerogative:)</hi> allow<g ref="char:EOLhyphen"/>ing God himſelfe but the dreadfull tribunall of Juſtice, of purpoſe to draw all ſuiters to her Court.</p>
+            <p>
+               <note place="margin">Ambr. in <hi>1.</hi> cap. ad Rom. Aug. l. <hi>8.</hi> de civile Dei prolixe.</note> A <hi>Platonicke</hi> ſuperſtition, that hath too many gray haires upon it, to ſurvive to this age of the Goſpell! for either the Jeſuite doth <hi>Platonize,</hi> or <hi>Plato</hi> did <hi>Jeſuitize,</hi> when he firſt ſent abroad his <hi>Deos intermedios.</hi> A ſacri<g ref="char:EOLhyphen"/>legious religion, to rob the very Deity, they worſhip, of his honor! An impious piety, ot degrade our <hi>high Preiſt</hi> of that honourable title, he hath purchaſed with his bloud! How doe they <hi>defloure</hi> the memory of the <hi>bleſ<g ref="char:EOLhyphen"/>ſed Virgin,</hi> whileſt they force her <hi>loyall Spirit</hi> into the Throne of God, there to diſpenſe thoſe <hi>Acts of grace,</hi> which are in the ſole power of the <hi>King of Kings?</hi> 'twere too ridiculous to heare <hi>Franciſco del campo</hi> at his thanks<g ref="char:EOLhyphen"/>giving, that he ſwam over a river with his armes, a <hi>Scul<g ref="char:EOLhyphen"/>ler</hi> that never before tryed the waters, yet made very nimble, and kept to the true ſtroke by the helpe of our <hi>Lady:</hi> When <hi>(though neceſſity hath wrought greater mira<g ref="char:EOLhyphen"/>cles,)</hi> a ſpaniell ſhall doe more without imploring the Virgins ay de. A <hi>Pure Virgin</hi> ſhe is ſtill, for any violence
+<pb n="15" facs="tcp:56332:10"/>the <hi>Church of England</hi> ever offered her, which hath al<g ref="char:EOLhyphen"/>wayes given her <hi>Due honour,</hi> but not <hi>Adoration.</hi>
+               <note place="margin">1. Tim. 2. 5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Habemus legem,</hi> We have a <hi>Salicke law</hi> in Scripture, that will not allow of any <hi>Queene Regent</hi> in heaven. <hi>Chriſt</hi> called her <hi>Woman</hi> who was his <hi>mother,</hi> that we might not eſteeme her a <hi>Goddeſſe,</hi> who was but a <hi>Woman</hi> She may <hi>deſire</hi> our ſalvation, but cannot <hi>beſtow</hi> it. <hi>Wiſh</hi> us <hi>well</hi> in heaven, yet not <hi>know,</hi> much leſſe <hi>releive</hi> our wants on earth. Ig<g ref="char:EOLhyphen"/>norance of our miſery is ſome part of the Saints happi<g ref="char:EOLhyphen"/>neſſe, As Saint <hi>Hierome</hi> reads the <hi>Epitaph</hi> on <hi>Nepotians</hi> tombe, <hi>Foelix Nepotianus, qui nec videt, nec audit haec om<g ref="char:EOLhyphen"/>nia,</hi> happy <hi>Nepotian,</hi> who neither ſeeth, nor heareth the ſinfull affaires of this world.</p>
+            <p>But their own <hi>Schoolemen</hi> have fancied the <hi>Deity,</hi>
+               <note place="margin">Abulenſir. Durandus. Cajetan.</note> 
+               <hi>All tranſparent:</hi> and as the bright <hi>Opall</hi> preſents to the eye the various colours of all precious ſtones; ſo the Saints have a cleare ſight of all affaires in the world, if they caſt but a looke on the divine eſſence. Indeed the whole world is reſplendent in the Deity, yet by no meanes do we make it <hi>a looking-glaſſe</hi> for the Saints curioſity. For either their viſion is <hi>unlimited,</hi> and penetrating unto all things, or elſe <hi>reſtrained</hi> to Gods pleaſure, as he ſhall o<g ref="char:EOLhyphen"/>pen or ſhut the vaile to them.</p>
+            <p>If <hi>unlimited,</hi> then the knowledge of a Saint muſt be as <hi>infinite</hi> as the <hi>divine:</hi> not a <hi>myſtery</hi> of State, not a <hi>re<g ref="char:EOLhyphen"/>cord</hi> written in that <hi>great diary of the world,</hi> the Mind of God, from the beginning, but muſt be publiſhed to the creatures view. All there muſt be of Gods <hi>Cabinet coun<g ref="char:EOLhyphen"/>ſell,</hi> and nothing kept ſecret in that <hi>Kingdome:</hi> Things <hi>paſt, preſent,</hi> and <hi>future:</hi> the very thoughts of our hearts, the knowledge wherof hath ever yet been
+<pb n="16" facs="tcp:56332:11"/>
+               <hi>Gods peculiar:</hi> Yea that <hi>Arcanum Dei,</hi> the <hi>day of indge<g ref="char:EOLhyphen"/>ment,</hi> which our Saviour proteſts, <hi>no man</hi> knowes, not <hi>the Angells</hi> in heaven, no, not the <hi>Sonne of man,</hi> Every <hi>Saint</hi> would behold in this <hi>Chryſtall.</hi>
+            </p>
+            <p>If their knowledge <hi>be confined</hi> to his will, as he ſhall pleaſe to draw the <hi>curteine</hi> aſide, more or leſſe to them, ſince the <hi>Scripture</hi> aſſures mee not, that God hath, or will diſcover my neceſſities, how abſurdly muſt I fall upon my knees, to <hi>beſeech God</hi> to reveale that to my Saint, which I firſt <hi>prayed my</hi> Saint to <hi>reveale</hi> to God? This were to <hi>mediate</hi> for my <hi>Mediatour,</hi> as Saint <hi>Auguſtine</hi> once ſcoffed at <hi>Aplló,</hi>
+               <note place="margin">Lib<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> decir. Dei.</note> 
+               <hi>Interpres Deorum eget interprete,</hi> the interpreter of the Gods muſt ſpeake by an interpre<g ref="char:EOLhyphen"/>ter himſelfe.</p>
+            <p>May we not then be ſo <hi>unwiſe,</hi> as to goe from the <hi>li<g ref="char:EOLhyphen"/>ving fountaine,</hi> to the <hi>broken ciſternes</hi> for the water of life; from the <hi>bright ſunne</hi> to the <hi>languid beames</hi> for the <hi>light of knowledge;</hi> from our <hi>powerfull King</hi> to the <hi>impotent Sub<g ref="char:EOLhyphen"/>jects</hi> for the <hi>Crowne of glory?</hi> We acknowledge no <hi>Me<g ref="char:EOLhyphen"/>diatour,</hi> but our <hi>Redeemer.</hi> He is not worthy the name of an <hi>Interceſſour,</hi> that hath not his <hi>garments dyed in bloud.</hi>
+            </p>
+            <p>
+               <hi>Chriſt</hi> alone is the <hi>Center,</hi> where God and man muſt, if ever, meere friends; and why ſhould we range about the <hi>circumference?</hi>
+               <note place="margin">Chemnit exam. concil. T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id. de invoc. Sanctor.</note> 
+               <hi>Sarcerius</hi> relates how that <hi>George Duke of Saxony,</hi> lying upon his death-bed, and the <hi>Monks</hi> ſtriving who ſhould commend the moſt pro<g ref="char:EOLhyphen"/>pitious Saint to his devotion, <hi>one of his Nobles</hi> told him, <hi>In publicis negotiis, In matters of State,</hi> your highneſſe al<g ref="char:EOLhyphen"/>wayes uſed this Proverbe, <hi>Rect a ſine ambagibus progredi, Viam eſſe maximé compendiariam:</hi> to proceed without
+<pb n="17" facs="tcp:56332:11"/>deviations was the moſt compendious <hi>method;</hi> And in a buſineſſe of ſo high concernement as your <hi>eternall fe<g ref="char:EOLhyphen"/>licity,</hi> will you fetch a <hi>compaſſe</hi> to it, and not rather goe directly to <hi>Chriſt,</hi> in whoſe power are <hi>the keyes of life, and death?</hi> can you thinke, that he, who <hi>breathed</hi> out his <hi>ſoule</hi> on the <hi>croſſe</hi> for us, will ſpare any <hi>breath</hi> to <hi>plead</hi> our <hi>cauſe in heaven?</hi> that he who <hi>poured</hi> out his <hi>precious heart</hi> bloud for our <hi>redemption,</hi> will not alſo <hi>poure out hearty prayers for ſalvation?</hi> Never doubt of your <hi>cauſe,</hi> ſo long as you have ſuch an <hi>Advocate,</hi> a <hi>Ieſus</hi> in heaven. With what <hi>boldnes</hi> may we addreſſe our ſelves to the <hi>throne of grace,</hi> when he that is ſued unto, is <hi>eaſy</hi> to be intreated, <hi>Pater, non Judex,</hi> a Father, not a Judge? he that petitions for us, is <hi>gracious</hi> to prevaile, <hi>Filius, non peregrinus,</hi> an onely <hi>Sonne,</hi> not a <hi>Stranger? Et quando pater a filio, Deus aver<g ref="char:EOLhyphen"/>tetur a Chriſto,</hi> &amp; how can a father deny his ſonne,<note place="margin">Proſper.</note> God his Chriſt, when he ſhall ſupplicate with <hi>ſtrong cryes and teares? Heb.</hi> 5, 7. When all the Saints in heaven ſhall ſit with <hi>cheerefull, and dry eyes,</hi> and he alone ſhew the <hi>frailty of a man</hi> to move compaſſion for us: <hi>Nay,</hi> when he ſhall come before him,<note place="margin">Heb. 12. v.24.</note> with that <hi>Rhetoricall bloud of ſprinkling,</hi> that ſpeakes <hi>better things</hi> then the <hi>bloud of A<g ref="char:EOLhyphen"/>bell:</hi> when the <hi>wounds</hi> he received on earth ſhall beco<g ref="char:cmbAbbrStroke">̄</g>e <hi>oratours</hi> for us in heaven, <hi>Quot vulnera, tot ora,</hi> each <hi>wound</hi> being a <hi>mouth</hi> to beg mercy for us. Saint <hi>Ambroſe</hi> can hold no longer, but cryes out <hi>O Domine Jeſu,</hi>
+               <note place="margin">Amb l. de inter<g ref="char:EOLhyphen"/>pell. <hi>4.</hi> c. <hi>12.</hi>
+               </note> 
+               <hi>tu por<g ref="char:EOLhyphen"/>tio mea, &amp;c. O Lord Jeſus,</hi> thou art my portion, a boun<g ref="char:EOLhyphen"/>ding to mee in all things, whom becauſe <hi>I have</hi> in hea<g ref="char:EOLhyphen"/>ven, I <hi>deſire</hi> nothing elſe on earth. which brings mee from the <hi>Expoſtulation</hi> to the pious <hi>Reſolution,</hi> the ſe<g ref="char:EOLhyphen"/>cond part of the ſong, <hi>There is none upon earth that I deſire beſides thee.</hi>
+            </p>
+            <pb n="18" facs="tcp:56332:12"/>
+            <p> 
+               <hi>Lo chaphaſti,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> None that I <hi>deſire, love, truſt,</hi> or <hi>delight</hi> in. All in tha word, and becauſe <hi>Vniſons all,</hi> I ſhall <hi>tune</hi> them together.</p>
+            <p>The proceſſion of the creatures from the Creatour is like a <hi>ray</hi> ſhot from the body of the <hi>Sun,</hi>
+               <note place="margin">3. The Reſolu<g ref="char:EOLhyphen"/>tion.</note> which is weakned, and ſpent by extenſion, and hath no way to recover it ſtrength or vigour, but by reflexion on the <hi>point,</hi> that firſt ſent it forth, even <hi>God himſelfe.</hi> In <hi>Plato</hi> our deſires are ſtyled, <hi>Vela animi,</hi> the <hi>ſayles of the minde,</hi> becauſe in this life, the ſoule is toſſed in an unconſtant motion; ſhe hath no ſecurity, till ſhe hoiſt ſayle for heaven, no haven of peace, but in the <hi>Deity.</hi> 'Tis a <hi>Rab<g ref="char:EOLhyphen"/>binicall</hi> obſervation, that all the letters in Gods name <hi>Ichovah</hi> are <hi>quieſcent,</hi> preaching unto us, that <hi>Quies animae,</hi>
+               <note place="margin">Drus. q. heb.</note> the ſoules reſt is in God alone. For in <hi>God</hi> there is ſuch a <hi>confluence of goodneſſe,</hi> ſuch a <hi>quinteſſence of per<g ref="char:EOLhyphen"/>fection,</hi> that the ſoule of man cannot deſire, with what it may not be ſatisfied, from the <hi>bountie</hi> of his fulneſſe. As <hi>Origen</hi> ſaid of the <hi>Iſraelites</hi> Manna that it anſwered every mans taſt, even the <hi>moſt curious courtlike palate:</hi> ſo there are ſuch <hi>infinite delicacies</hi> in the deitie, that there cannot riſe án appetite in the longing ſoule, that may not be ſatiated with his plenty. <hi>Philoſophie</hi> rankes our deſires into thoſe of the <hi>Vnderſtanding,</hi> after truth: of the <hi>Will,</hi> after virtue: and of the <hi>Affections,</hi> after felicitie. Now, to all theſe God is a full ſatisfaction: to the <hi>intel<g ref="char:EOLhyphen"/>lectuall,</hi> with his infinite <hi>wiſdome:</hi> to the <hi>voluntarie,</hi> with his tranſcendent <hi>goodneſſe:</hi> to the <hi>affective,</hi> with his eter<g ref="char:EOLhyphen"/>nall <hi>glory</hi> and if the <hi>ſenſes</hi> can deſire, <hi>Origen</hi> ſaith, he is <hi>ſin<g ref="char:EOLhyphen"/>gul</hi>
+               <note n="a" place="margin">
+                  <hi>Can<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.30.</note> 
+               <hi>ſingulis,</hi> a moſt <hi>pleaſing object</hi> to every ſenſe. <hi>Beauty</hi> for the eye, <hi>muſick</hi> for the eare,<note n="b" place="margin">Joh. 6.48.53.</note> 
+               <hi>bread</hi> for life for the taſt,<note n="c" place="margin">Cant 1. v.2.</note> a <hi>perfume</hi> to delight the ſmell, and<note n="d" place="margin">
+                  <hi>Joh. 20.24.</hi> Hom 1. in cant.</note> 
+               <hi>fleſh</hi> for the
+<pb n="19" facs="tcp:56332:12"/>incredulous touch: but why doe we looke on theſe ob<g ref="char:EOLhyphen"/>jects at the wrong end of the glaſſe? what we call beau<g ref="char:EOLhyphen"/>ty is indeed <hi>deity,</hi> muſick <hi>felicitie,</hi> life <hi>eternitie,</hi> ſweetneſſe <hi>perfection,</hi> perfection <hi>eſſence,</hi> eſſence! what ſhall I ſay? <hi>Honours, riches, peace?</hi> I am too ſhort yet, <hi>All things.</hi> how ſhould this <hi>enflame</hi> our <hi>love</hi> to <hi>God,</hi> who like another <hi>Proteus</hi> (as I may ſay) converts himſelfe into all <hi>formes</hi> and <hi>natures</hi> to pleaſe the covetous heart of man.</p>
+            <p>He that ſeeks <hi>contentment</hi> in any created good, layes a foundation in the <hi>moving ayre:</hi> for when the <hi>figure</hi> of the great <hi>Empires</hi> were repreſented to <hi>Zachary</hi> in a viſion,<note place="margin">Zechar. 6. V.5.</note> the <hi>Angel</hi> told him, <hi>iſti ſunt quatuor venti,</hi> thoſe are but the 4 windes, <hi>Winde all,</hi> and 'tis ſtrange, me thinks, men ſhould <hi>repoſe</hi> themſelves on the <hi>wings of the winde.</hi> Sure, had God intended we ſhould have reſted our deſires on this world, he would have provided a better <hi>foundation</hi> for it, but <hi>Mundum fundavit ſuper nibil,</hi> ſaies <hi>Iob,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Super non quid, cap. <hi>26.</hi> v.<hi>7.</hi>
+               </note> hee hath founded the world upon nothing, <hi>A very tottering foun<g ref="char:EOLhyphen"/>dation, ut univerſus mundus fundaretur ſuper ſeipſum,</hi> that the whole world might ſettle, &amp; repoſe it ſelfe on God alone. Riches themſelves, <hi>the worlds great Diana,</hi> are ſti<g ref="char:EOLhyphen"/>led, but the goods of Fortune; the hypocriſie of their nature being ſignified by the <hi>falſe deitie</hi> that protects them, or if you will accept of the <hi>ordinary gloſſe,</hi> it is by meere fortune, a great chance that riches are good for any thing. Were there any <hi>ſubstance</hi> in them, ſure the <hi>greateſt fortune</hi> would not be attended with <hi>leaſt content:</hi> but, <hi>(the vanitie of their nature!)</hi> To the largeſt poſſeſſi<g ref="char:EOLhyphen"/>ons, as to an <hi>imperfect tract,</hi> we muſt alwayes write <hi>De<g ref="char:EOLhyphen"/>ſiderantur nonulla. Charles</hi> the <hi>fifth</hi> had for his <hi>Motto, Ulterius:</hi> we muſt borrow the <hi>word</hi> of him for when we have ſearched over all the treaſures, and delights of the
+<pb n="20" facs="tcp:56332:13"/>world for contentment, we muſt conclude with an <hi>Vl<g ref="char:EOLhyphen"/>terius,</hi> ſomething further is to be ſought for yet: there is no <hi>non ultrà</hi> to our deſires,<note place="margin">Aug. med.</note> but the <hi>all ſufficient God.</hi>
+            </p>
+            <p>Wherefore in this point let Saint <hi>Auguſtine</hi> be your <hi>Orator, Quaere unum honum in quo ſunt omnia bona, &amp; ſuf<g ref="char:EOLhyphen"/>ficit.</hi> Seeke but that one good, in which is all good, and it is enough. Why ſhould we trouble our ſelves to col<g ref="char:EOLhyphen"/>lect the <hi>rayes,</hi> when we may enjoy the <hi>Sun?</hi> to catch a <hi>drop</hi> of water, when the <hi>Ocean</hi>'s ours? to ſeeke for the <hi>duſt, and fragments,</hi> when we may have the <hi>whole Dia<g ref="char:EOLhyphen"/>mond?</hi> never let <hi>S<hi rend="sup">t</hi> Salvians</hi> complaint be reverſed upon us,<note place="margin">L. <hi>5.</hi> de guber. Des.</note> 
+               <hi>omnia amamus, omnia colimus, ſolus Deus in comparatione omnium vilis habetur.</hi> We <hi>love</hi> all things, we <hi>honour</hi> all things, only <hi>God</hi> in compariſon of all is eſteemed <hi>vile</hi> by us: If <hi>beauty</hi> be the <hi>loadſtone</hi> of love in a creature, ſhal not he draw our love after him,<note place="margin">De amore Dei c. <hi>3.</hi>
+               </note> whoſe very Being is the <hi>perfection</hi> of all <hi>beauty? 'Twas S<hi rend="sup">t</hi> Bernards</hi> reſolution, &amp; it is worthy the breaſt of every Chriſtian, <hi>Animam me<g ref="char:EOLhyphen"/>am odio haberem, ſi alibi, quàm in Domino, &amp;c.</hi> I ſhould <hi>abhorre</hi> my owne <hi>ſoule,</hi>
+               <note place="margin">2. Gen. the di<g ref="char:EOLhyphen"/>ſtinction of the notes.</note> did I find it delight in any thing but the <hi>God of Heaven.</hi> And ſo I paſſe to the ſecond ge<g ref="char:EOLhyphen"/>nerall, <hi>the diſtinction of the notes in both parts,</hi> and therein, Firſt, <hi>the order of the places,</hi> Heaven takes place of the Earth:<note place="margin">2. The order of the places. Hea<g ref="char:EOLhyphen"/>ven before the earth.</note> 
+               <hi>Quem in coelis,</hi> before <hi>deſideravi in terris.</hi>
+            </p>
+            <p>It is with you in your <hi>converſation,</hi> as with us in our <hi>ſtudies,</hi> An <hi>erroneous method</hi> fruſtrates the beſt endea<g ref="char:EOLhyphen"/>vours. Many had arrived to <hi>greatneſſe,</hi> if their firſt care had beene <hi>goodneſſe:</hi> but if they are croſſed in what they would, 'tis becauſe they would not what they ought. In <hi>Chriſtianity</hi> we have no ſuch figure as a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to place the firſt laſt. <hi>Primúm Quaerite, Firſt ſeeke the King<g ref="char:EOLhyphen"/>dome of Heaven,</hi> and all things elſe will ſeeke you. Such
+<pb n="21" facs="tcp:56332:13"/>is the Allmighties liberality, that if we deſire but the beſt, he will caſt us in, All things.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> The morning word <hi>Boker</hi> is derived of <hi>Bicker</hi> a <hi>Verbe</hi> of <hi>Inquiſition,</hi> becauſe heaven ſhould be our <hi>morning ſtudy,</hi> the ſun ſhould not riſe ſo early in the firmament, as our thoughts towards Heaven. <hi>King David</hi> dedicated one Pſalme to the mor<g ref="char:EOLhyphen"/>ning,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Al ajeleth haſſachar,</hi> upon the morning ſtarre is the inſcription of the <hi>twenty ſecond,</hi> the day no ſooner <hi>ſalu<g ref="char:EOLhyphen"/>ted</hi> the world, but he <hi>tooke his leave</hi> of it: his devotion therein reſembling the ſunne, that creepes every mor<g ref="char:EOLhyphen"/>ning from under the earth, never ceaſing his courſe, till he hath got up to the <hi>verticall point of heaven; O God my God early willſt ſeeke thee, Pſal.</hi> 63. <hi>v</hi> I. It is never too rath to ſeeke after happineſſe.<note place="margin">Ber. ſer. <hi>68.</hi> in Cant.</note> 
+               <hi>Aceeler a quantum potes, etiam ipſas anticipa vigilias, invenies, non praevenies.</hi> Let thy wa<g ref="char:EOLhyphen"/>king devotion anticipate the very watches, <hi>find</hi> you may, not <hi>prèvent</hi> the vigilant God: we cannot ſeeke him ſo <hi>early,</hi> as he expects us.</p>
+            <p>You have here <hi>Vivendi methodus,</hi> the method of living well. The <hi>firſt ſtep,</hi> you tread, muſt be for Heaven: the <hi>firſt line</hi> you draw, for Eternall life. We invert the <hi>very order</hi> of nature, if we <hi>prefix the earth</hi> in our thoughts. for the <hi>Almighties</hi> firſt worke was to ſet up this <hi>Great Vault, Heaven,</hi> over our heads, e're he created this <hi>Little ball, the Earth,</hi> for us to tread on: thereby inſtructing <hi>our piety,</hi> if we would build like <hi>Chriſtians,</hi> to lay our foundation in heaven. Had we no other <hi>Catechiſme,</hi> but this one <hi>ſheet of ſtarres</hi> above us, we might learne where to place our <hi>firſt thoughts:</hi> by their <hi>luſtre, and ſparkling,</hi> mee thinks, they ſeeme <hi>to invile us to that Kingdome,</hi> which they now adorne.</p>
+            <p>I need not acquaint this <hi>Aſſembly,</hi> how <hi>unbleſt</hi> the
+<pb n="22" facs="tcp:56332:14"/>very <hi>Heathens</hi> eſteemed their <hi>publique enterprizes,</hi> till they had conſulted with their <hi>oracle.</hi> The <hi>Romans,</hi> as <hi>Tully</hi> obſerves,<note place="margin">Cie, in l. de A<g ref="char:EOLhyphen"/>ruſpice.</note> counted it unlawfull to propoſe any matter to the <hi>Senate, prinſquam de coelo,</hi> till their wizards had drawne their obſervations from the sky. <hi>The ſafeſt policy indeed to take adviſe</hi> of heaven: 'Twas the ancient emblem of a ſtates-man, <hi>manus ad gladium, oculus ad aſtra, A poſture of defence,</hi> theſe times ſhould put you all in, <hi>your hands on your ſwords, your eyes towards heaven.</hi> If you begin your conſultations <hi>on your knees,</hi> you fetch a <hi>bleſſing and commiſſion</hi> at once from the Almighties owne hand. <hi>Sure that worke cannot miſcarry, that begins in religion.</hi>
+            </p>
+            <p>Indeed the <hi>ambition and malice</hi> of ſome men have made religion put on <hi>many faces</hi> at this day, like thoſe new invented <hi>pictures,</hi> that at a different ſtation repre<g ref="char:EOLhyphen"/>ſent <hi>diverſe formes:</hi> in one place, <hi>Libertiniſme, and Athe<g ref="char:EOLhyphen"/>iſme,</hi> in another <hi>Anabaptiſme,</hi> and <hi>Browniſme,</hi> ſcarce daring at all to ſhew her <hi>Proteſtant face:</hi> yet all theſe pre<g ref="char:EOLhyphen"/>tend to be religion, when by their bloudy effects, the <hi>murders, treaſons,</hi> and <hi>rebellions,</hi> they do produce, a <hi>Pa<g ref="char:EOLhyphen"/>gan</hi> would never beleive, that
+<q>—<hi>Religio tantum potuit ſuadere malorum.</hi>
+               </q>
+            </p>
+            <p>How happily hath this <hi>Kingdome,</hi>
+               <note place="margin">Acts. 24.14.</note> even in that way which is now called <hi>haereſie</hi> worſhipped the <hi>God of our fathers:</hi> but now we may ſay of our <hi>Religion,</hi> as Saint <hi>Baſil</hi> of the <hi>Aire</hi> in a time of dearth,<note place="margin">Baſil. hom. in Fam. &amp; ſicci<g ref="char:EOLhyphen"/>talem.</note> that it was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> growne the more <hi>impure,</hi> becauſe it affects ſo much <hi>purity:</hi> the more wicked, becauſe it would ſeeme ſo religious.</p>
+            <p>But ſo <hi>pernicious</hi> an <hi>Abuſe</hi> of religion ſhould encou<g ref="char:EOLhyphen"/>rage
+<pb n="23" facs="tcp:56332:14"/>every <hi>Noble ſpirit</hi> to a more <hi>zealous patronage</hi> of it. <hi>Heaven,</hi> you ſee, layes clay me to your <hi>firſt thoughts,</hi> and at this time 'twere the higheſt <hi>ſacriledge</hi> to beſtow them on your private <hi>intereſts.</hi> What we <hi>intend</hi> is firſt, not what we pretend: but if we make it a <hi>pious gloſſe</hi> for our <hi>worldly deſignes,</hi> wee ſeeke not <hi>heaven,</hi> but <hi>our ſelves.</hi> God hath placed it in nature <hi>beyond all things,</hi> that we might place <hi>nothing beyond it in our affections.</hi> Make it we the <hi>prologue</hi> of our actions, and God will make it the <hi>Epi<g ref="char:EOLhyphen"/>logue</hi> of our lives: the <hi>end of this life</hi> is, life without end; here we have it only in <hi>expectation,</hi> but in <hi>heaven</hi> the full <hi>fruition.</hi> Which preſents unto you the next particular, the <hi>Different ſenſe of the Verbes, Habeo,</hi> and <hi>Deſideravi. Have</hi> in heaven: only <hi>Deſire</hi> on earth.</p>
+            <p>This life is a <hi>Chriſtians minority.</hi>
+               <note place="margin">2. The ſenſe of theverbes.</note> He is truely poſſeſ<g ref="char:EOLhyphen"/>ſed of nothing himſelfe, but is a <hi>ward</hi> to the <hi>Almighty:</hi> he never <hi>enters</hi> upon his <hi>Inheritance</hi> till he comes to <hi>heaven,</hi> there he hath <hi>livery,</hi> and <hi>ſeisin</hi> given him from the hand of God himſelfe. <hi>Come ye bleſſed of my father,</hi>
+               <note place="margin">Mat. 25. v.34. <hi>Alex. in Strom.</hi>
+               </note> 
+               <hi>receive the Kingdome, &amp;c. Clemens Alexandrinus</hi> calls him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> one that lives in the <hi>confines of heaven,</hi> whilſt he is in this world: he wants but the <hi>courteous hand</hi> of <hi>Death</hi> to put him into poſſeſſion. Here, <hi>the law</hi> flatters us with <hi>firme conveihances, and perpesuities;</hi> but there is no <hi>freehold</hi> of any thing here below, our <hi>ſureſt tenure</hi> is in <hi>Heaven.</hi> We contend for the <hi>Property of the Subject,</hi> when nothing on earth can be the <hi>Subject of true Property.</hi> For the <hi>Lawyer</hi> is miſtaken, that ſaith the <hi>Clergy man</hi> onely is borne to <hi>no inheritance,</hi> when the <hi>no<g ref="char:EOLhyphen"/>bleſt birth</hi> brings forth but <hi>a great heire of nothing:</hi> For how can I <hi>truly</hi> call <hi>him poſſeſſour</hi> of that, which in it
+<pb n="24" facs="tcp:56332:15"/>ſelfe hath not <hi>the truth of a poſſeſſion?</hi> or if it hath, the <hi>longeſt</hi> here, is but the <hi>ſhort leaſe</hi> of a <hi>mans life:</hi> when death comes, he <hi>cuts</hi> off the <hi>entayle</hi> of the faireſt hopes: your <hi>Crownes</hi> and <hi>Soveraignes</hi> you muſt lay down at the pits brinke: your <hi>Lordſhips,</hi> and <hi>manours</hi> muſt be con<g ref="char:EOLhyphen"/>tracted within the narrow compaſſe of a <hi>Grave;</hi> thats all the <hi>Land,</hi> you can carry with you. As we reade of <hi>Abraham.</hi> All the <hi>Heritage</hi> he purchaſed for his poſte<g ref="char:EOLhyphen"/>rity, was but the <hi>Cave</hi> of <hi>Machpelah, a burying place.</hi>
+            </p>
+            <p>Never let the <hi>Dreame</hi> of any <hi>laſting</hi> poſſeſſion here enter into your breaſts. If you would be <hi>freeholders</hi> in<g ref="char:EOLhyphen"/>deed, you muſt lay up your <hi>treaſure</hi> in heaven; there, an <hi>Inheritance incorruptible, undefiled, that fades not away is re<g ref="char:EOLhyphen"/>ſerved for us.</hi>
+               <note place="margin">1. Pet. 1.v. 4.</note> An inheritance ſo <hi>large, that foure pradica<g ref="char:EOLhyphen"/>ments</hi> can ſcarce hold it. For Subſtance <hi>Incorruptible,</hi> for Quality <hi>Undefiled, Immarciſcible</hi> for Duration, and <hi>Coe<g ref="char:EOLhyphen"/>leſtiall</hi> for Site: yet <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'Tis <hi>All</hi> reſerved for <hi>us,</hi> in ſurer hands then <hi>Orphans</hi> eſtates here on earth, which are too often <hi>a prey to anothers avarice,</hi> this is <hi>ſafe</hi> in Gods owne keeping, till we ſhall lay downe our <hi>non age, and lives</hi> together. And what doe we meane to ſpend our <hi>precious ſoules</hi> on theſe <hi>periſhing treaſures? A Kingdome pre<g ref="char:EOLhyphen"/>pared</hi> for Us, and <hi>we</hi> not yet <hi>prepared</hi> for the <hi>Kingdome?</hi> doe you not heare the <hi>world</hi> call upon you, <hi>upbraiding,</hi> (as it were) your <hi>miſtaken confidence</hi> in it. For what are all theſe <hi>Warres and Tumults,</hi> but the <hi>worlds out-cry</hi> to us? what are thoſe <hi>Defects and Imperfections</hi> in the creature, but their <hi>Broken Language,</hi> whereby they doe <hi>beſeech</hi> us to <hi>depart</hi> from them, and <hi>ſeeke</hi> after our <hi>Aeternall patri<g ref="char:EOLhyphen"/>mony</hi> in the Creator. For we <hi>love</hi> not <hi>God</hi> at <hi>all,</hi> if he hath not <hi>All our love.</hi> Neither <hi>Cum,</hi> nor <hi>Praeter</hi> muſt de<g ref="char:EOLhyphen"/>vide
+<pb n="25" facs="tcp:56332:15"/>it: that's the particular, <hi>the Diverſity of the Praepoſitions,</hi> Nothing <hi>with,</hi> nothing <hi>beſides</hi> thee, that I <hi>deſire.</hi>
+            </p>
+            <p>The <hi>originall</hi> admits of no variety,<note place="margin">3. The Diver<g ref="char:EOLhyphen"/>ſity of the prae<g ref="char:EOLhyphen"/>poſitions.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is but once in the verſe: but the accent <hi>Revia,</hi> as <hi>Chimki</hi> obſerves, di<g ref="char:EOLhyphen"/>ſtinguiſhing both parts makes it tuneable in both. Yet behold the modeſty of Scripture, which rather <hi>under<g ref="char:EOLhyphen"/>ſtands</hi> the ſame word, then ſuffers a <hi>Tautology:</hi> much un<g ref="char:EOLhyphen"/>like ſome audacious devotion, that hath <hi>many</hi> petitions in it, but not <hi>diverſe:</hi>
+            </p>
+            <p>Not to ſtay though at the <hi>grammar</hi> of the text.</p>
+            <p>To love the <hi>creature for the creature</hi> is <hi>Epicuriſme.</hi>
+            </p>
+            <p>To love the <hi>Creator for the creature</hi> is <hi>Mercenary.</hi>
+            </p>
+            <p>To love the <hi>Creator with</hi> the <hi>creature</hi> is <hi>ſpitituall adul<g ref="char:EOLhyphen"/>tery:</hi> but to love the <hi>Creator for the creator is true chari<g ref="char:EOLhyphen"/>ty. Uno oculorum,</hi> ſaid Chriſt of his Church, Thou haſt wounded my heart <hi>with One of thine eyes.</hi> True love hath but <hi>a ſingle eye,</hi>
+               <note place="margin">Cant. 4.9.</note> or if more, the <hi>Naturaliſt</hi> ſayes, there is ſuch a <hi>motion of conſent</hi> betweene them, that one will not ſuffer the other to be <hi>diſloyall,</hi> but are both fixed up<g ref="char:EOLhyphen"/>on <hi>one</hi> object.<note place="margin">Cypr.</note> A <hi>laſcivious glaunce</hi> upon the creature had made the Spouſe <hi>Adulter a Chriſto.</hi> In the Schooles,<note place="margin">Aquinas. Daven. in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. col.</note> 
+               <hi>Principale obiectum,</hi> God is the principall object of hu<g ref="char:EOLhyphen"/>mane charity: the creatures deſerve not our love, but <hi>in ordine ad illum,</hi> as we eſpy ſome darke lineaments of the Diety in them. Indeed we may <hi>uſe the creatures,</hi> as ſo many <hi>rounds in Iacobs ladder,</hi> whereby we climbe up to God himſelfe, and therefore <hi>Richardus Victorinus, In<g ref="char:EOLhyphen"/>teger amator Dei,</hi>
+               <note place="margin">L. De gradibus charit.</note> 
+               <hi>quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, ſe vertit:</hi> a perfect lover of God cannot turne about his eye, but he ſees every creature ready to <hi>catechize</hi> his love: in the meaneſt <hi>created object</hi>
+               <pb n="26" facs="tcp:56332:16"/>he calls to minde, that <hi>increated charity:</hi> ſo farre we love the creatures, that we may love the Creator the more. <hi>Fruimur Deo, utimur aliis:</hi> we doe but make uſe of them to enjoy God. <hi>Qui diligunt Deum propter aliud, Simoni<g ref="char:EOLhyphen"/>acè diligunt,</hi> ſayes <hi>Gerſon</hi> wittily, he that loves God for any thing but himſelfe commits <hi>Simony</hi> in his love.<note place="margin">Gerſon. centilo<g ref="char:EOLhyphen"/>gio. dec. <hi>4.</hi>
+               </note> 'Tis not the <hi>Clergy mans ſinne</hi> onely, (though our <hi>Country Pa<g ref="char:EOLhyphen"/>trons</hi> force us too often to <hi>aske</hi> the <hi>price of our owne patri<g ref="char:EOLhyphen"/>mony.</hi>) but there is a <hi>Lay Simony</hi> too, when you <hi>love God no longer, then</hi> you <hi>can get by him,</hi> like <hi>thoſe people</hi> that wor<g ref="char:EOLhyphen"/>ſhipped <hi>Nilus</hi> only ſo long as his rich inundations filled their barnes with corne.</p>
+            <p>'Twas Saint <hi>Auſtines</hi> argument to ſuch men, (and may it prevaile with us.)<note place="margin">Ser. <hi>46.</hi> de tem<g ref="char:EOLhyphen"/>pore.</note> 
+               <hi>Si dulcis eſt mundus, dulcior eſt Chri<g ref="char:EOLhyphen"/>ſtus,</hi> If there be ſuch ſweetneſſe in the creature, which is <hi>but a drop,</hi> as to allure thy deſires, ſhall not the tran<g ref="char:EOLhyphen"/>ſcendent delight in the Creator, <hi>who is the fountaine,</hi> com<g ref="char:EOLhyphen"/>mand thy affection?</p>
+            <p>Could I preſent the <hi>King</hi> in the Text with all the de<g ref="char:EOLhyphen"/>lights and treaſures in the world: nay could I fetch you backe that <hi>Beloved peace,</hi> that is fled from us, <hi>Nibil dul<g ref="char:EOLhyphen"/>ceſcit, niſi hoc uno condiatur.</hi> We ſhould finde no ſweet<g ref="char:EOLhyphen"/>neſſe in it, unleſſe it were ſeaſoned with the Deity: Had we kept our <hi>God</hi> with our <hi>former peace,</hi> we had not beene to ſeeke it now.</p>
+            <p>Were <hi>every ſouldier</hi> in our armies <hi>multiplyed</hi> into a <hi>thouſand:</hi>
+               <note place="margin">Chryſ. in Pſal. <hi>7.</hi> v.<hi>3:</hi>
+               </note> every <hi>Garriſon</hi> environed with a <hi>wall of braſſe,</hi> and <hi>Caſtle of Diamond:</hi> Nay <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, were the <hi>whole world</hi> on the march for us againſt the enemy, it were an <hi>inconſiderable force,</hi> unleſſe <hi>God</hi> himſelfe lead up the <hi>Van<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <pb n="27" facs="tcp:56332:16"/>
+            <p> And why ſhould we neglect him any longer, with<g ref="char:EOLhyphen"/>out whom are <hi>conquered,</hi> even when we are <hi>conque<g ref="char:EOLhyphen"/>rours?"</hi> Whileſt we thinke of <hi>recruiting</hi> our <hi>Armies,</hi> let us not forget to <hi>reruite our affiance</hi> in God. The <hi>Eclip<g ref="char:EOLhyphen"/>ſes</hi> we have ſuffered, are but the <hi>Interpoſitions</hi> of our own <hi>carnall confidence:</hi> The <hi>loſſes</hi> we have undergone, are but the <hi>corrections of our miſtruſt.</hi> Take it from the mouth of <hi>a King,</hi> (though in a more deſperate condition, <hi>then We, God be bleſſed,</hi> have ever <hi>yet</hi> ſeene: yet) <hi>Jehoſaphat</hi> in as <hi>great a ſtreight</hi> as ever <hi>Prince</hi> was, ſtood up and ſaid, <hi>O</hi> Judah, <hi>and ye inhabitants of</hi> Hieruſalem, <hi>beleeve in the Lord your God, ſo ſhall ye be eſtabliſhed: beleeve his Prophets,<note place="margin">2. Chron. 20. v. 20.</note> ſo ſhall ye yet proſper.</hi>
+            </p>
+            <p>
+               <hi>O our God, though we know not what to doe, yet our eyes looke up unto thee.</hi> Let not this Kingdome we beſeech thee, be made an <hi>Aceldama:</hi> We have beene thy <hi>Eden,</hi> O make us not now a <hi>deſolate wilderneſſe:</hi> but be <hi>favour<g ref="char:EOLhyphen"/>able</hi> to <hi>Sion, build</hi> up the <hi>walls</hi> of <hi>Hieruſalem. For whom have we in Heaven but thee, O Lord? and there is none upon earth that we deſire but thee:</hi>
+            </p>
+            <p>To <hi>whom</hi> be aſcribed of <hi>Us Men</hi> on earth, and <hi>Angells above,</hi> All <hi>glory, ho<g ref="char:EOLhyphen"/>nour, power</hi> and <hi>thanksgiving</hi> world without end. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
